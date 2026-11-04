@@ -12,6 +12,7 @@ Application web statique, hébergée par GitHub Pages. Le workflow publie le con
 
 Les saisies sont enregistrées automatiquement dans le stockage local du navigateur. Elles restent sur cet appareil et dans ce navigateur ; GitHub Pages ne synchronise pas les appareils.
 
+- Dans **Vigne > Parcelles**, le bouton **Charger l’aperçu du parcellaire** affiche les unités disponibles et celles déjà importées. L’importation n’ajoute que les unités absentes, après confirmation ; les caractéristiques des unités restent modifiables depuis leur fiche.
 - Avant de quitter l’ancienne version, téléchargez une copie complète de vos données depuis **Plus > Exports**.
 - Pour transférer les données, ouvrez **Plus > Exports** sur l’appareil source et téléchargez une sauvegarde JSON, puis restaurez ce fichier sur l’autre appareil. La restauration remplace les données de cet appareil après confirmation.
 - Gardez une copie du fichier JSON en lieu sûr. Effacer les données du navigateur ou changer d’appareil peut autrement rendre les saisies locales inaccessibles.
