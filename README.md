@@ -12,7 +12,7 @@ Application web statique, hébergée par GitHub Pages. Le workflow publie le con
 
 Les saisies sont enregistrées automatiquement dans le stockage local du navigateur. Elles restent sur cet appareil et dans ce navigateur ; GitHub Pages ne synchronise pas les appareils.
 
-- À la première ouverture après la mise à jour du parcellaire, les unités de plantation sont ajoutées automatiquement dans **Vigne > Parcelles**, regroupées par secteur. L’initialisation est enregistrée avec les données et n’est pas répétée aux ouvertures suivantes ; les caractéristiques de chaque unité restent modifiables depuis sa fiche.
+- À la première ouverture après la mise à jour du parcellaire, les unités de plantation sont ajoutées automatiquement dans **Vigne > Parcelles**, regroupées par secteur. L’initialisation est enregistrée avec les données et n’est pas répétée aux ouvertures suivantes. Le bouton **✏️ Modifier** permet de modifier les caractéristiques d’une parcelle et de ses unités ; les changements sont sauvegardés avec les autres données.
 - Avant de quitter l’ancienne version, téléchargez une copie complète de vos données depuis **Plus > Exports**.
 - Pour transférer les données, ouvrez **Plus > Exports** sur l’appareil source et téléchargez une sauvegarde JSON, puis restaurez ce fichier sur l’autre appareil. La restauration remplace les données de cet appareil après confirmation.
 - Gardez une copie du fichier JSON en lieu sûr. Effacer les données du navigateur ou changer d’appareil peut autrement rendre les saisies locales inaccessibles.
